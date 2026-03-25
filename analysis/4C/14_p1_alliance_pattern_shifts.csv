@@ -1,0 +1,192 @@
+iso3,sim_change_vs_CHN,sim_change_vs_ISR,sim_change_vs_RUS,sim_change_vs_USA,p1_change,region,broad_region
+CAN,0.5811,-0.5568,0.6339,-1.1109,-9.07,Northern America,Northern America
+CZE,0.6073,-0.5367,0.6006,-1.0954,-4.14,Eastern Europe,Eastern Europe
+AUS,0.5467,-0.4832,0.5776,-1.0625,3.55,Australia and New Zealand,Oceania
+FSM,0.6552,-0.498,0.697,-1.0546,-10.57,Micronesia,Oceania
+GBR,0.5924,-0.502,0.5534,-1.051,-6.39,Northern Europe,Northern Europe
+NLD,0.5374,-0.5097,0.5605,-1.0495,1.3,Western Europe,Western Europe
+LTU,0.542,-0.484,0.5141,-1.0355,-3.07,Northern Europe,Northern Europe
+GEO,0.5219,-0.4615,0.5969,-1.0326,-0.44,Western Asia,Western Asia
+DNK,0.5165,-0.4728,0.5,-1.0254,-2.34,Northern Europe,Northern Europe
+DEU,0.5294,-0.4807,0.5556,-1.0214,2.02,Western Europe,Western Europe
+SWE,0.5158,-0.4617,0.524,-1.0157,2.37,Northern Europe,Northern Europe
+ALB,0.5039,-0.4358,0.4997,-1.0128,-1.06,Southern Europe,Southern Europe
+ITA,0.5152,-0.4472,0.5343,-1.0123,-1.65,Southern Europe,Southern Europe
+HRV,0.5505,-0.4725,0.5714,-1.0109,-2.63,Southern Europe,Southern Europe
+SVK,0.529,-0.4749,0.5235,-1.008,-2.19,Eastern Europe,Eastern Europe
+HUN,0.5403,-0.4282,0.5488,-1.0073,1.01,Eastern Europe,Eastern Europe
+EST,0.5203,-0.4593,0.4932,-1.0037,-3.49,Northern Europe,Northern Europe
+ISL,0.4589,-0.4353,0.5228,-1.0015,-2.17,Northern Europe,Northern Europe
+JPN,0.4496,-0.3655,0.6034,-0.9997,-5.69,Eastern Asia,Eastern Asia
+UKR,0.5361,-0.4508,0.5533,-0.9996,4.29,Eastern Europe,Eastern Europe
+BEL,0.4955,-0.4443,0.5159,-0.9978,-2.25,Western Europe,Western Europe
+FIN,0.5059,-0.444,0.5151,-0.9916,1.13,Northern Europe,Northern Europe
+KOR,0.5092,-0.4379,0.4918,-0.9905,-2.82,Eastern Asia,Eastern Asia
+FRA,0.5156,-0.4484,0.4949,-0.9873,-9.79,Western Europe,Western Europe
+ROU,0.5457,-0.4585,0.5194,-0.9873,-0.44,Eastern Europe,Eastern Europe
+MCO,0.4955,-0.4508,0.4998,-0.9861,-3.17,Western Europe,Western Europe
+ESP,0.5051,-0.4487,0.5268,-0.9767,-0.74,Southern Europe,Southern Europe
+POL,0.5127,-0.4512,0.4927,-0.9758,-4.03,Eastern Europe,Eastern Europe
+LVA,0.4992,-0.4266,0.4856,-0.9753,-3.88,Northern Europe,Northern Europe
+BGR,0.5171,-0.4172,0.522,-0.9737,1.27,Eastern Europe,Eastern Europe
+LUX,0.5054,-0.4352,0.5152,-0.9693,-2.4,Western Europe,Western Europe
+CHE,0.5251,-0.4589,0.608,-0.9692,-10.46,Western Europe,Western Europe
+NOR,0.4452,-0.3984,0.5068,-0.9643,-2.42,Northern Europe,Northern Europe
+MNE,0.5012,-0.4282,0.5103,-0.9616,-2.75,Southern Europe,Southern Europe
+PRT,0.502,-0.4001,0.5391,-0.9603,-3.19,Southern Europe,Southern Europe
+SVN,0.4961,-0.4282,0.5318,-0.9569,1.8,Southern Europe,Southern Europe
+BIH,0.474,-0.3767,0.5666,-0.9549,4.25,Southern Europe,Southern Europe
+AUT,0.5179,-0.4087,0.6495,-0.9398,-1.9,Western Europe,Western Europe
+GRC,0.4868,-0.4033,0.5275,-0.9189,-1.8,Southern Europe,Southern Europe
+MKD,0.4486,-0.3557,0.4733,-0.9182,5.38,Southern Europe,Southern Europe
+MDA,0.5141,-0.3936,0.66,-0.9178,-5.87,Eastern Europe,Eastern Europe
+NZL,0.4656,-0.3843,0.589,-0.9022,-4.86,Australia and New Zealand,Oceania
+LIE,0.4929,-0.3938,0.6304,-0.8985,-4.06,Western Europe,Western Europe
+SMR,0.463,-0.351,0.6009,-0.8862,-4.16,Southern Europe,Southern Europe
+PLW,0.5038,-0.3414,0.6606,-0.8738,-6.96,Micronesia,Oceania
+IRL,0.4451,-0.3382,0.5852,-0.8658,-6.62,Northern Europe,Northern Europe
+AND,0.4635,-0.3482,0.5848,-0.8605,-5.42,Southern Europe,Southern Europe
+MLT,0.4845,-0.3617,0.6215,-0.8442,-7.42,Southern Europe,Southern Europe
+PNG,0.4491,-0.3294,0.6503,-0.828,14.38,Melanesia,Oceania
+TUR,0.4001,-0.3168,0.4016,-0.814,-3.85,Western Asia,Western Asia
+CYP,0.4349,-0.3059,0.5832,-0.8018,-5.43,Western Asia,Western Asia
+PAN,0.337,-0.2477,0.5481,-0.7926,-1.33,Central America,Latin America & Caribbean
+MHL,0.3309,-0.1703,0.4902,-0.787,4.12,Micronesia,Oceania
+URY,0.2866,-0.2512,0.4727,-0.7481,-4.96,South America,Latin America & Caribbean
+TON,0.4066,-0.2154,0.6292,-0.7221,6.42,Polynesia,Oceania
+SRB,0.2554,-0.2556,0.3506,-0.7122,-1.87,Southern Europe,Southern Europe
+GTM,0.2453,-0.2179,0.4228,-0.7026,-0.19,Central America,Latin America & Caribbean
+CHL,0.2523,-0.1973,0.4307,-0.6929,-1.19,South America,Latin America & Caribbean
+CRI,0.2262,-0.1656,0.4099,-0.6796,-5.96,Central America,Latin America & Caribbean
+MEX,0.2242,-0.1891,0.3871,-0.6794,-1.68,Central America,Latin America & Caribbean
+DOM,0.2318,-0.1873,0.4094,-0.6764,-4.95,Caribbean,Latin America & Caribbean
+ECU,0.2741,-0.1599,0.4443,-0.662,0.82,South America,Latin America & Caribbean
+GUY,0.2049,-0.1583,0.4094,-0.6616,-6.8,South America,Latin America & Caribbean
+MMR,0.2235,-0.1615,0.3993,-0.6597,8.46,South-eastern Asia,South-eastern Asia
+WSM,0.2743,-0.2171,0.4704,-0.653,-8.31,Polynesia,Oceania
+SGP,0.158,-0.1131,0.3858,-0.6508,-6.27,South-eastern Asia,South-eastern Asia
+LBR,0.3218,-0.282,0.5421,-0.6493,16.89,Western Africa,Sub-Saharan Africa
+SUR,0.2313,-0.1819,0.4143,-0.6478,3.68,South America,Latin America & Caribbean
+TUV,0.3413,-0.2477,0.4432,-0.6406,-3.77,Polynesia,Oceania
+TGO,0.264,-0.1851,0.4453,-0.6388,-4.35,Western Africa,Sub-Saharan Africa
+BHS,0.1955,-0.1559,0.4062,-0.6352,-3.03,Caribbean,Latin America & Caribbean
+JAM,0.1978,-0.1133,0.3872,-0.6339,-1.29,Caribbean,Latin America & Caribbean
+TTO,0.1436,-0.1079,0.3785,-0.6305,-6.41,Caribbean,Latin America & Caribbean
+ARM,0.1767,-0.1444,0.2883,-0.6303,-3.02,Western Asia,Western Asia
+THA,0.173,-0.1319,0.3723,-0.6297,-3.59,South-eastern Asia,South-eastern Asia
+CIV,0.2254,-0.1551,0.3968,-0.6288,-8.07,Western Africa,Sub-Saharan Africa
+PER,0.1771,-0.1494,0.354,-0.6267,-1.24,South America,Latin America & Caribbean
+VUT,0.2418,-0.1728,0.4145,-0.622,-3.67,Melanesia,Oceania
+COL,0.2197,-0.1409,0.3968,-0.6204,2.27,South America,Latin America & Caribbean
+TCD,0.1931,-0.1521,0.3644,-0.6201,4.38,Middle Africa,Sub-Saharan Africa
+PHL,0.1905,-0.1407,0.3733,-0.6183,0.38,South-eastern Asia,South-eastern Asia
+CMR,0.2232,-0.157,0.4123,-0.6153,-20.71,Middle Africa,Sub-Saharan Africa
+MWI,0.3403,-0.1898,0.4322,-0.6151,-2.14,Eastern Africa,Sub-Saharan Africa
+CPV,0.296,-0.1477,0.3594,-0.6147,-0.23,Western Africa,Sub-Saharan Africa
+HTI,0.2044,-0.1654,0.3913,-0.6108,-0.03,Caribbean,Latin America & Caribbean
+QAT,0.1859,-0.0993,0.4236,-0.6091,-7.07,Western Asia,Western Asia
+MUS,0.1996,-0.1552,0.3978,-0.6077,-3.59,Eastern Africa,Sub-Saharan Africa
+TLS,0.1748,-0.1309,0.3431,-0.606,-3.29,South-eastern Asia,South-eastern Asia
+MNG,0.1823,-0.1259,0.3642,-0.6026,-3.79,Eastern Asia,Eastern Asia
+NPL,0.211,-0.1398,0.3506,-0.6023,-3.06,Southern Asia,Southern Asia
+ATG,0.2298,-0.1934,0.3877,-0.6002,-2.17,Caribbean,Latin America & Caribbean
+HND,0.1613,-0.1737,0.3386,-0.5995,7.88,Central America,Latin America & Caribbean
+MDV,0.1468,-0.1027,0.4108,-0.5995,-3.01,Southern Asia,Southern Asia
+ZMB,0.316,-0.1286,0.4478,-0.599,13.13,Eastern Africa,Sub-Saharan Africa
+LCA,0.102,-0.1435,0.3553,-0.5962,-7.48,Caribbean,Latin America & Caribbean
+TZA,0.1307,-0.1628,0.3279,-0.5954,-2.87,Eastern Africa,Sub-Saharan Africa
+BLZ,0.125,-0.1114,0.3678,-0.5938,-4.49,Central America,Latin America & Caribbean
+KWT,0.181,-0.1093,0.4283,-0.5918,-6.06,Western Asia,Western Asia
+BHR,0.1271,-0.0998,0.3567,-0.5891,-8.56,Western Asia,Western Asia
+COM,0.266,-0.2459,0.498,-0.5879,14.67,Eastern Africa,Sub-Saharan Africa
+KHM,0.1807,-0.119,0.3393,-0.5827,-0.27,South-eastern Asia,South-eastern Asia
+BGD,0.1676,-0.0966,0.4097,-0.5818,-5.87,Southern Asia,Southern Asia
+SLV,0.2092,-0.1078,0.3754,-0.5775,-3.14,Central America,Latin America & Caribbean
+BRA,0.1836,-0.1312,0.3394,-0.5758,9.08,South America,Latin America & Caribbean
+PAK,0.1194,-0.0802,0.2821,-0.572,-13.8,Southern Asia,Southern Asia
+ZAF,0.1729,-0.1142,0.3798,-0.5714,-3.97,Southern Africa,Sub-Saharan Africa
+RWA,0.2073,-0.0989,0.3428,-0.5709,-5.1,Eastern Africa,Sub-Saharan Africa
+BRN,0.1274,-0.0774,0.3875,-0.5697,-15.26,South-eastern Asia,South-eastern Asia
+IND,0.1623,-0.1077,0.3123,-0.5697,-5.89,Southern Asia,Southern Asia
+SLE,0.1424,-0.1326,0.322,-0.5673,-6.58,Western Africa,Sub-Saharan Africa
+JOR,0.1474,-0.125,0.3646,-0.5661,-1.28,Western Asia,Western Asia
+VNM,0.155,-0.0888,0.3287,-0.5657,-6.65,South-eastern Asia,South-eastern Asia
+BRB,0.1141,-0.0397,0.4635,-0.5632,-9.6,Caribbean,Latin America & Caribbean
+COD,0.1017,-0.0044,0.3043,-0.5591,,Middle Africa,Sub-Saharan Africa
+KAZ,0.1742,-0.0925,0.3149,-0.5562,-4.11,Central Asia,Central Asia
+YEM,0.1513,-0.0755,0.4257,-0.5559,-10.7,Western Asia,Western Asia
+BWA,0.1335,-0.1148,0.3928,-0.5552,-0.83,Southern Africa,Sub-Saharan Africa
+MRT,0.125,-0.0766,0.3904,-0.5543,-9.36,Western Africa,Sub-Saharan Africa
+TUN,0.1288,-0.0859,0.3366,-0.5539,-4.67,Northern Africa,Africa
+GAB,0.1616,-0.089,0.3305,-0.5532,1.79,Middle Africa,Sub-Saharan Africa
+FJI,0.3081,-0.0533,0.4376,-0.5512,1.38,Melanesia,Oceania
+MYS,0.1471,-0.1043,0.3517,-0.5506,-9.11,South-eastern Asia,South-eastern Asia
+LAO,0.1404,-0.0744,0.3258,-0.5483,-10.78,South-eastern Asia,South-eastern Asia
+GHA,0.1565,-0.1524,0.3603,-0.5482,-5.99,Western Africa,Sub-Saharan Africa
+KEN,0.166,-0.1307,0.3766,-0.5474,-5.2,Eastern Africa,Sub-Saharan Africa
+BTN,0.1663,-0.0837,0.331,-0.5417,0.19,Southern Asia,Southern Asia
+DJI,0.136,-0.0801,0.3397,-0.5405,0.34,Eastern Africa,Sub-Saharan Africa
+SEN,0.1909,-0.0636,0.3457,-0.5368,-8.17,Western Africa,Sub-Saharan Africa
+UGA,0.1625,-0.1035,0.3329,-0.5353,-6.36,Eastern Africa,Sub-Saharan Africa
+SYC,0.2036,-0.1528,0.3508,-0.5346,-0.94,Eastern Africa,Sub-Saharan Africa
+IRQ,0.1017,-0.0605,0.3532,-0.5326,-8.44,Western Asia,Western Asia
+LKA,0.1472,-0.0738,0.3484,-0.5326,-3.04,Southern Asia,Southern Asia
+COG,0.1735,-0.1139,0.3683,-0.5312,1.58,Middle Africa,Sub-Saharan Africa
+AGO,0.1612,-0.0949,0.3605,-0.5303,-2.08,Middle Africa,Sub-Saharan Africa
+MAR,0.1394,-0.0851,0.3266,-0.5267,-2.93,Northern Africa,Africa
+ARE,0.1364,-0.0475,0.3489,-0.5237,-6.48,Western Asia,Western Asia
+GMB,0.1783,-0.0659,0.3596,-0.5228,-5.7,Western Africa,Sub-Saharan Africa
+GIN,0.1161,-0.0675,0.2941,-0.5204,-8.61,Western Africa,Sub-Saharan Africa
+GNQ,0.134,-0.052,0.2819,-0.5156,1.33,Middle Africa,Sub-Saharan Africa
+ETH,0.1002,0.0014,0.3214,-0.5144,-7.92,Eastern Africa,Sub-Saharan Africa
+SAU,0.1781,-0.0466,0.406,-0.5101,-2.45,Western Asia,Western Asia
+EGY,0.1098,-0.0349,0.342,-0.5071,-12.64,Northern Africa,Africa
+LSO,0.1384,-0.0146,0.354,-0.507,-9.69,Southern Africa,Sub-Saharan Africa
+IDN,0.1296,-0.0552,0.3419,-0.5057,-9.48,South-eastern Asia,South-eastern Asia
+MOZ,0.2202,-0.1041,0.3283,-0.5052,-4.74,Eastern Africa,Sub-Saharan Africa
+NAM,0.102,-0.067,0.3136,-0.5026,-0.91,Southern Africa,Sub-Saharan Africa
+LBN,0.1015,-0.059,0.2884,-0.498,-0.86,Western Asia,Western Asia
+KNA,0.2045,-0.0794,0.353,-0.496,-7.28,Caribbean,Latin America & Caribbean
+LBY,0.1278,-0.0263,0.3538,-0.4934,-12.24,Northern Africa,Africa
+OMN,0.1209,-0.0144,0.3363,-0.4852,-7.49,Western Asia,Western Asia
+TJK,0.1745,-0.0557,0.32,-0.4817,-7.51,Central Asia,Central Asia
+KGZ,0.122,-0.0267,0.2849,-0.4789,-2.16,Central Asia,Central Asia
+ERI,0.1002,-0.0444,0.2793,-0.4666,-0.02,Eastern Africa,Sub-Saharan Africa
+ZWE,0.0802,-0.0309,0.2383,-0.4656,-0.97,Eastern Africa,Sub-Saharan Africa
+DZA,0.0954,-0.0512,0.3103,-0.4648,-12.04,Northern Africa,Africa
+UZB,0.1022,-0.0519,0.2421,-0.4533,0.23,Central Asia,Central Asia
+PRY,0.0993,-0.0696,0.3334,-0.4499,-11.1,South America,Latin America & Caribbean
+NGA,0.0685,0.0056,0.2887,-0.4491,-5.53,Western Africa,Sub-Saharan Africa
+SLB,0.2464,-0.0651,0.3357,-0.4445,-4.97,Melanesia,Oceania
+CAF,0.2148,-0.0148,0.4162,-0.4376,7.57,Middle Africa,Sub-Saharan Africa
+BFA,0.1197,-0.0617,0.2894,-0.4368,-3.09,Western Africa,Sub-Saharan Africa
+GRD,0.1298,-0.0541,0.4274,-0.4357,-15.03,Caribbean,Latin America & Caribbean
+CHN,,0.0244,0.1894,-0.4273,-11.74,Eastern Asia,Eastern Asia
+AZE,0.1007,-0.0379,0.2323,-0.4261,-2.36,Western Asia,Western Asia
+SWZ,0.1691,-0.0759,0.4569,-0.4145,-19.12,Southern Africa,Sub-Saharan Africa
+GNB,0.1981,-0.0653,0.2754,-0.3994,-4.96,Western Africa,Sub-Saharan Africa
+SSD,0.1439,-0.2046,0.2071,-0.3925,36.62,Eastern Africa,Sub-Saharan Africa
+CUB,0.0532,0.0242,0.2426,-0.385,-12.34,Caribbean,Latin America & Caribbean
+NER,0.0923,0.0529,0.2703,-0.3824,3.28,Western Africa,Sub-Saharan Africa
+BDI,0.0574,0.0296,0.3102,-0.3776,-7.44,Eastern Africa,Sub-Saharan Africa
+MLI,0.1032,0.0228,0.2463,-0.375,3.47,Western Africa,Sub-Saharan Africa
+SDN,0.0924,0.0635,0.2767,-0.3628,-1.29,Northern Africa,Africa
+SOM,0.0917,-0.0141,0.1865,-0.3576,4.91,Eastern Africa,Sub-Saharan Africa
+KIR,-0.0282,0.006,0.0894,-0.3058,2.77,Micronesia,Oceania
+IRN,0.0998,0.1452,0.2461,-0.2934,-12.03,Southern Asia,Southern Asia
+TKM,0.0708,0.002,0.1394,-0.2747,-7.81,Central Asia,Central Asia
+BLR,0.1157,0.0771,0.1424,-0.265,-14.23,Eastern Europe,Eastern Europe
+ARG,-0.0987,-0.1878,-0.0267,-0.2349,-23.15,South America,Latin America & Caribbean
+DMA,-0.0417,-0.0879,0.0573,-0.2053,-22.0,Caribbean,Latin America & Caribbean
+NIC,0.0799,0.0815,0.1592,-0.1812,-10.32,Central America,Latin America & Caribbean
+ISR,0.0244,,0.0877,-0.1744,-8.38,Western Asia,Western Asia
+RUS,0.1894,0.0877,,-0.1692,-2.08,Eastern Europe,Eastern Europe
+BEN,0.0028,0.1125,-0.033,-0.1678,5.92,Western Africa,Sub-Saharan Africa
+NRU,0.1217,-0.0363,0.1277,-0.167,2.76,Micronesia,Oceania
+PRK,0.0654,0.1747,0.1053,-0.0909,-12.93,Eastern Asia,Eastern Asia
+BOL,-0.3881,0.4337,0.0397,-0.0066,-14.52,South America,Latin America & Caribbean
+SYR,-0.0526,0.2985,0.027,0.034,-18.14,Western Asia,Western Asia
+STP,-0.1316,0.2816,0.0888,0.0815,94.14,Middle Africa,Sub-Saharan Africa
+VCT,-0.4407,0.3043,-0.1418,0.1138,-21.34,Caribbean,Latin America & Caribbean
+MDG,-0.4934,0.3763,-0.1087,0.1693,-30.25,Eastern Africa,Sub-Saharan Africa
+USA,-0.4273,-0.1744,-0.1692,,-26.81,Northern America,Northern America
