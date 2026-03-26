@@ -1,0 +1,3 @@
+year,mean_p3,median_p3,std_p3,min_p3,p10,p25,p75,p90,max_p3,countries_ge_95,countries_ge_90,countries_ge_80,countries_lt_50,countries_lt_40,countries_lt_20,num_countries
+2024,82.16,90.09,16.16,0.0,60.85,70.91,94.39,96.85,100.0,40,96,121,4,3,2,191
+2025,92.84,96.75,11.27,0.0,85.73,89.41,98.12,99.16,100.0,112,139,185,3,3,2,191

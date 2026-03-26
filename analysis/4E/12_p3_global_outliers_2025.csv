@@ -1,0 +1,192 @@
+iso3,p3_2025,world_avg_2025,diff_from_world_avg,broad_region,broad_region_avg_2025,diff_from_broad_region_avg,region,majority_alignment_rate_2025,vote_mix_distance_l1_2025,total_2025
+USA,0.0,92.84,-92.84,Northern America,43.68,-43.68,Northern America,5.21,171.33,192
+ISR,12.87,92.84,-79.97,Western Asia,90.18,-77.31,Western Asia,13.79,148.48,145
+ARG,32.79,92.84,-60.05,Latin America & Caribbean,95.39,-62.6,South America,27.1,121.87,155
+PRY,74.2,92.84,-18.64,Latin America & Caribbean,95.39,-21.19,South America,59.16,57.74,191
+SSD,76.23,92.84,-16.6,Sub-Saharan Africa,96.68,-20.45,Eastern Africa,64.29,53.85,56
+NRU,78.76,92.84,-14.07,Oceania,91.48,-12.72,Micronesia,66.07,43.92,56
+HUN,81.47,92.84,-11.36,Eastern Europe,85.9,-4.43,Eastern Europe,68.23,39.61,192
+MDG,83.12,92.84,-9.71,Sub-Saharan Africa,96.68,-13.56,Eastern Africa,72.73,40.53,11
+MKD,83.26,92.84,-9.57,Southern Europe,88.32,-5.06,Southern Europe,70.74,34.58,188
+UKR,83.99,92.84,-8.85,Eastern Europe,85.9,-1.91,Eastern Europe,71.81,32.45,188
+ALB,84.03,92.84,-8.81,Southern Europe,88.32,-4.3,Southern Europe,71.96,32.15,189
+GEO,84.14,92.84,-8.7,Western Asia,90.18,-6.05,Western Asia,72.68,30.71,183
+CZE,84.38,92.84,-8.46,Eastern Europe,85.9,-1.52,Eastern Europe,72.4,31.27,192
+GBR,84.93,92.84,-7.9,Northern Europe,87.34,-2.41,Northern Europe,73.44,29.19,192
+BGR,84.96,92.84,-7.87,Eastern Europe,85.9,-0.94,Eastern Europe,73.3,29.47,191
+RUS,85.25,92.84,-7.58,Eastern Europe,85.9,-0.65,Eastern Europe,73.96,28.15,192
+FRA,85.35,92.84,-7.49,Western Europe,88.58,-3.24,Western Europe,73.96,28.15,192
+LTU,85.4,92.84,-7.43,Northern Europe,87.34,-1.94,Northern Europe,73.96,28.15,192
+POL,85.73,92.84,-7.1,Eastern Europe,85.9,-0.17,Eastern Europe,74.48,27.11,192
+ROU,85.73,92.84,-7.1,Eastern Europe,85.9,-0.17,Eastern Europe,74.48,27.11,192
+LVA,86.06,92.84,-6.77,Northern Europe,87.34,-1.28,Northern Europe,75.0,26.06,192
+EST,86.31,92.84,-6.52,Northern Europe,87.34,-1.03,Northern Europe,75.39,25.28,191
+FSM,86.35,92.84,-6.48,Oceania,91.48,-5.13,Micronesia,75.95,24.25,158
+SVK,86.97,92.84,-5.86,Eastern Europe,85.9,1.07,Eastern Europe,76.44,23.18,191
+HRV,87.04,92.84,-5.8,Southern Europe,88.32,-1.29,Southern Europe,76.56,22.94,192
+CAN,87.36,92.84,-5.48,Northern America,43.68,43.68,Northern America,77.08,21.9,192
+DEU,87.36,92.84,-5.48,Western Europe,88.58,-1.23,Western Europe,77.08,21.9,192
+ITA,87.37,92.84,-5.46,Southern Europe,88.32,-0.95,Southern Europe,77.08,21.9,192
+KOR,87.62,92.84,-5.22,Eastern Asia,91.15,-3.53,Eastern Asia,77.49,21.09,191
+DNK,87.68,92.84,-5.15,Northern Europe,87.34,0.34,Northern Europe,77.6,20.86,192
+SWE,87.68,92.84,-5.15,Northern Europe,87.34,0.34,Northern Europe,77.6,20.86,192
+MCO,87.73,92.84,-5.11,Western Europe,88.58,-0.86,Western Europe,77.66,20.75,188
+FIN,87.99,92.84,-4.84,Northern Europe,87.34,0.65,Northern Europe,78.12,19.81,192
+PRK,88.18,92.84,-4.65,Eastern Asia,91.15,-2.97,Eastern Asia,78.45,19.16,181
+NLD,88.19,92.84,-4.64,Western Europe,88.58,-0.39,Western Europe,78.42,19.22,190
+ISL,88.26,92.84,-4.58,Northern Europe,87.34,0.91,Northern Europe,78.53,19.0,191
+BEL,88.31,92.84,-4.52,Western Europe,88.58,-0.27,Western Europe,78.65,18.77,192
+GRC,88.31,92.84,-4.52,Southern Europe,88.32,-0.01,Southern Europe,78.65,18.77,192
+LUX,88.31,92.84,-4.52,Western Europe,88.58,-0.27,Western Europe,78.65,18.77,192
+MNE,88.32,92.84,-4.51,Southern Europe,88.32,-0.0,Southern Europe,78.65,18.77,192
+AUS,88.63,92.84,-4.2,Oceania,91.48,-2.85,Australia and New Zealand,79.17,17.73,192
+ESP,88.63,92.84,-4.2,Southern Europe,88.32,0.31,Southern Europe,79.17,17.73,192
+PRT,88.63,92.84,-4.2,Southern Europe,88.32,0.31,Southern Europe,79.17,17.73,192
+NOR,88.64,92.84,-4.19,Northern Europe,87.34,1.3,Northern Europe,79.17,17.73,192
+BIH,88.87,92.84,-3.96,Southern Europe,88.32,0.55,Southern Europe,79.58,16.9,191
+SVN,88.94,92.84,-3.9,Southern Europe,88.32,0.62,Southern Europe,79.69,16.69,192
+FJI,88.99,92.84,-3.84,Oceania,91.48,-2.49,Melanesia,80.0,16.26,185
+TUR,89.33,92.84,-3.51,Western Asia,90.18,-0.86,Western Asia,80.32,15.43,188
+MDA,89.5,92.84,-3.33,Eastern Europe,85.9,3.6,Eastern Europe,80.63,14.81,191
+SRB,89.7,92.84,-3.13,Southern Europe,88.32,1.38,Southern Europe,81.29,16.4,171
+JPN,89.84,92.84,-3.0,Eastern Asia,91.15,-1.31,Eastern Asia,81.25,13.56,192
+AUT,89.87,92.84,-2.96,Western Europe,88.58,1.29,Western Europe,81.25,13.56,192
+MHL,90.12,92.84,-2.71,Oceania,91.48,-1.36,Micronesia,81.77,12.53,181
+PLW,90.18,92.84,-2.65,Oceania,91.48,-1.3,Micronesia,82.08,15.51,173
+IRL,90.48,92.84,-2.35,Northern Europe,87.34,3.14,Northern Europe,82.29,11.48,192
+STP,90.67,92.84,-2.17,Sub-Saharan Africa,96.68,-6.01,Middle Africa,83.33,19.32,12
+AND,90.67,92.84,-2.16,Southern Europe,88.32,2.35,Southern Europe,82.63,10.8,190
+BLR,91.02,92.84,-1.82,Eastern Europe,85.9,5.12,Eastern Europe,83.25,9.57,191
+CHE,91.04,92.84,-1.79,Western Europe,88.58,2.46,Western Europe,83.33,9.4,192
+LIE,91.07,92.84,-1.77,Western Europe,88.58,2.49,Western Europe,83.33,9.4,192
+CYP,91.08,92.84,-1.76,Western Asia,90.18,0.9,Western Asia,83.33,9.4,192
+SMR,91.08,92.84,-1.76,Southern Europe,88.32,2.76,Southern Europe,83.33,9.4,192
+IND,91.22,92.84,-1.61,Southern Asia,95.88,-4.65,Southern Asia,83.85,13.07,192
+NZL,91.36,92.84,-1.47,Oceania,91.48,-0.12,Australia and New Zealand,83.85,8.36,192
+PNG,91.42,92.84,-1.41,Oceania,91.48,-0.06,Melanesia,83.98,8.11,181
+MLT,91.67,92.84,-1.16,Southern Europe,88.32,3.35,Southern Europe,84.38,7.31,192
+TON,92.06,92.84,-0.78,Oceania,91.48,0.58,Polynesia,85.06,5.95,174
+WSM,92.58,92.84,-0.25,Oceania,91.48,1.1,Polynesia,86.43,13.13,140
+PAK,92.94,92.84,0.1,Southern Asia,95.88,-2.94,Southern Asia,86.84,9.15,190
+CHN,93.1,92.84,0.27,Eastern Asia,91.15,1.95,Eastern Asia,86.98,4.74,192
+CMR,93.31,92.84,0.47,Sub-Saharan Africa,96.68,-3.37,Middle Africa,87.65,10.69,170
+CAF,93.31,92.84,0.48,Sub-Saharan Africa,96.68,-3.37,Middle Africa,87.34,3.71,158
+IRN,93.41,92.84,0.57,Southern Asia,95.88,-2.47,Southern Asia,87.57,5.45,185
+ARM,93.46,92.84,0.62,Western Asia,90.18,3.27,Western Asia,87.78,8.21,180
+NIC,93.56,92.84,0.72,Latin America & Caribbean,95.39,-1.83,Central America,87.93,7.32,174
+ETH,94.31,92.84,1.47,Sub-Saharan Africa,96.68,-2.37,Eastern Africa,89.36,9.92,188
+TGO,94.37,92.84,1.54,Sub-Saharan Africa,96.68,-2.31,Western Africa,89.47,9.92,190
+SAU,94.4,92.84,1.56,Western Asia,90.18,4.22,Western Asia,89.47,8.87,190
+PAN,95.0,92.84,2.16,Latin America & Caribbean,95.39,-0.39,Central America,90.58,9.92,191
+NAM,95.21,92.84,2.38,Sub-Saharan Africa,96.68,-1.47,Southern Africa,90.96,9.92,177
+EGY,95.29,92.84,2.45,Africa,96.69,-1.41,Northern Africa,91.05,8.87,190
+SYR,95.49,92.84,2.66,Western Asia,90.18,5.31,Western Asia,91.4,7.77,93
+SDN,95.59,92.84,2.76,Africa,96.69,-1.1,Northern Africa,91.53,7.0,189
+DMA,95.61,92.84,2.77,Latin America & Caribbean,95.39,0.22,Caribbean,91.67,9.92,48
+ZWE,95.7,92.84,2.87,Sub-Saharan Africa,96.68,-0.98,Eastern Africa,91.76,7.45,182
+CUB,95.85,92.84,3.02,Latin America & Caribbean,95.39,0.47,Caribbean,92.02,7.98,188
+BDI,96.01,92.84,3.17,Sub-Saharan Africa,96.68,-0.67,Eastern Africa,92.35,8.64,170
+ECU,96.1,92.84,3.26,Latin America & Caribbean,95.39,0.71,South America,92.55,9.92,188
+DZA,96.21,92.84,3.37,Africa,96.69,-0.49,Northern Africa,92.71,9.35,192
+ARE,96.44,92.84,3.61,Western Asia,90.18,6.26,Western Asia,93.19,10.32,191
+YEM,96.48,92.84,3.64,Western Asia,90.18,6.3,Western Asia,93.23,10.39,192
+OMN,96.49,92.84,3.65,Western Asia,90.18,6.31,Western Asia,93.23,10.39,192
+COD,96.62,92.84,3.79,Sub-Saharan Africa,96.68,-0.06,Middle Africa,93.53,10.99,139
+LBY,96.65,92.84,3.81,Africa,96.69,-0.04,Northern Africa,93.55,11.03,186
+TUV,96.71,92.84,3.88,Oceania,91.48,5.23,Polynesia,93.66,11.26,142
+VCT,96.75,92.84,3.91,Latin America & Caribbean,95.39,1.36,Caribbean,93.75,11.44,16
+KWT,96.76,92.84,3.92,Western Asia,90.18,6.58,Western Asia,93.75,11.44,192
+NGA,96.77,92.84,3.93,Sub-Saharan Africa,96.68,0.09,Western Africa,93.79,11.51,161
+SLV,96.84,92.84,4.0,Latin America & Caribbean,95.39,1.45,Central America,93.92,11.78,181
+TJK,96.89,92.84,4.05,Central Asia,97.61,-0.72,Central Asia,93.99,11.91,183
+UGA,96.89,92.84,4.06,Sub-Saharan Africa,96.68,0.21,Eastern Africa,94.02,11.98,184
+NER,96.91,92.84,4.08,Sub-Saharan Africa,96.68,0.23,Western Africa,94.15,12.84,171
+MOZ,96.93,92.84,4.09,Sub-Saharan Africa,96.68,0.25,Eastern Africa,94.09,12.11,186
+AGO,96.98,92.84,4.14,Sub-Saharan Africa,96.68,0.3,Middle Africa,94.18,12.3,189
+MNG,97.01,92.84,4.17,Eastern Asia,91.15,5.86,Eastern Asia,94.24,12.42,191
+BHR,97.03,92.84,4.19,Western Asia,90.18,6.84,Western Asia,94.27,12.48,192
+KIR,97.03,92.84,4.2,Oceania,91.48,5.55,Micronesia,94.29,12.51,70
+LKA,97.04,92.84,4.2,Southern Asia,95.88,1.16,Southern Asia,94.27,12.48,192
+MLI,97.09,92.84,4.25,Sub-Saharan Africa,96.68,0.41,Western Africa,94.44,12.82,180
+RWA,97.23,92.84,4.39,Sub-Saharan Africa,96.68,0.54,Eastern Africa,94.64,13.22,168
+KAZ,97.23,92.84,4.4,Central Asia,97.61,-0.38,Central Asia,94.65,13.24,187
+LAO,97.23,92.84,4.4,South-eastern Asia,98.19,-0.96,South-eastern Asia,94.65,13.24,187
+UZB,97.27,92.84,4.43,Central Asia,97.61,-0.34,Central Asia,94.71,13.35,170
+IRQ,97.27,92.84,4.44,Western Asia,90.18,7.09,Western Asia,94.71,13.35,189
+TZA,97.28,92.84,4.44,Sub-Saharan Africa,96.68,0.59,Eastern Africa,94.74,13.41,171
+CRI,97.3,92.84,4.46,Latin America & Caribbean,95.39,1.91,Central America,94.76,13.46,191
+QAT,97.3,92.84,4.47,Western Asia,90.18,7.12,Western Asia,94.79,13.52,192
+LBN,97.31,92.84,4.48,Western Asia,90.18,7.13,Western Asia,94.79,13.52,192
+ZAF,97.31,92.84,4.48,Sub-Saharan Africa,96.68,0.63,Southern Africa,94.79,13.52,192
+SLB,97.34,92.84,4.5,Oceania,91.48,5.86,Melanesia,94.86,13.65,175
+KEN,97.4,92.84,4.57,Sub-Saharan Africa,96.68,0.72,Eastern Africa,94.97,13.88,179
+GNQ,97.44,92.84,4.61,Sub-Saharan Africa,96.68,0.76,Middle Africa,95.03,14.0,161
+KGZ,97.47,92.84,4.64,Central Asia,97.61,-0.14,Central Asia,95.11,14.15,184
+MRT,97.52,92.84,4.69,Sub-Saharan Africa,96.68,0.84,Western Africa,95.19,14.31,187
+VNM,97.55,92.84,4.71,South-eastern Asia,98.19,-0.64,South-eastern Asia,95.24,14.41,189
+KHM,97.55,92.84,4.72,South-eastern Asia,98.19,-0.63,South-eastern Asia,95.26,14.46,190
+NPL,97.55,92.84,4.72,Southern Asia,95.88,1.68,Southern Asia,95.26,14.46,190
+JOR,97.57,92.84,4.74,Western Asia,90.18,7.39,Western Asia,95.29,14.51,191
+BRA,97.58,92.84,4.75,Latin America & Caribbean,95.39,2.19,South America,95.31,14.56,192
+IDN,97.59,92.84,4.75,South-eastern Asia,98.19,-0.6,South-eastern Asia,95.31,14.56,192
+GMB,97.61,92.84,4.78,Sub-Saharan Africa,96.68,0.93,Western Africa,95.38,14.69,173
+ERI,97.71,92.84,4.88,Sub-Saharan Africa,96.68,1.03,Eastern Africa,95.58,15.1,181
+CIV,97.83,92.84,5.0,Sub-Saharan Africa,96.68,1.15,Western Africa,95.79,15.51,190
+TUN,97.84,92.84,5.0,Africa,96.69,1.14,Northern Africa,95.79,15.51,190
+BFA,97.85,92.84,5.01,Sub-Saharan Africa,96.68,1.17,Western Africa,95.88,15.7,170
+BGD,97.85,92.84,5.01,Southern Asia,95.88,1.97,Southern Asia,95.81,15.56,191
+BWA,97.86,92.84,5.02,Sub-Saharan Africa,96.68,1.17,Southern Africa,95.83,15.6,144
+BRN,97.86,92.84,5.03,South-eastern Asia,98.19,-0.32,South-eastern Asia,95.83,15.6,192
+GHA,97.89,92.84,5.06,Sub-Saharan Africa,96.68,1.21,Western Africa,95.91,15.75,171
+HTI,97.9,92.84,5.06,Latin America & Caribbean,95.39,2.51,Caribbean,95.91,15.75,171
+GIN,97.92,92.84,5.08,Sub-Saharan Africa,96.68,1.24,Western Africa,95.95,15.84,173
+LSO,97.96,92.84,5.12,Sub-Saharan Africa,96.68,1.27,Southern Africa,96.02,15.98,176
+PER,98.11,92.84,5.27,Latin America & Caribbean,95.39,2.72,South America,96.32,16.57,190
+COG,98.12,92.84,5.29,Sub-Saharan Africa,96.68,1.44,Middle Africa,96.34,16.62,164
+SGP,98.13,92.84,5.29,South-eastern Asia,98.19,-0.06,South-eastern Asia,96.35,16.64,192
+MYS,98.13,92.84,5.3,South-eastern Asia,98.19,-0.05,South-eastern Asia,96.35,16.64,192
+SEN,98.34,92.84,5.5,Sub-Saharan Africa,96.68,1.66,Western Africa,96.76,17.45,185
+COL,98.4,92.84,5.57,Latin America & Caribbean,95.39,3.01,South America,96.88,17.69,192
+MDV,98.4,92.84,5.57,Southern Asia,95.88,2.52,Southern Asia,96.88,17.69,192
+THA,98.4,92.84,5.57,South-eastern Asia,98.19,0.22,South-eastern Asia,96.88,17.69,192
+GRD,98.48,92.84,5.65,Latin America & Caribbean,95.39,3.09,Caribbean,97.03,17.99,101
+DJI,98.6,92.84,5.76,Sub-Saharan Africa,96.68,1.92,Eastern Africa,97.25,18.44,182
+MAR,98.6,92.84,5.76,Africa,96.69,1.9,Northern Africa,97.25,18.44,182
+BTN,98.61,92.84,5.78,Southern Asia,95.88,2.73,Southern Asia,97.28,18.5,184
+MUS,98.62,92.84,5.78,Sub-Saharan Africa,96.68,1.94,Eastern Africa,97.3,18.53,185
+BOL,98.69,92.84,5.86,Latin America & Caribbean,95.39,3.31,South America,97.5,18.94,40
+GNB,98.69,92.84,5.86,Sub-Saharan Africa,96.68,2.01,Western Africa,97.44,18.81,156
+SWZ,98.79,92.84,5.95,Sub-Saharan Africa,96.68,2.11,Southern Africa,97.62,19.17,84
+SLE,98.85,92.84,6.01,Sub-Saharan Africa,96.68,2.17,Western Africa,97.74,19.42,177
+TCD,98.9,92.84,6.07,Sub-Saharan Africa,96.68,2.22,Middle Africa,97.85,19.63,186
+DOM,98.92,92.84,6.09,Latin America & Caribbean,95.39,3.54,Caribbean,97.88,19.7,189
+TTO,98.93,92.84,6.09,Latin America & Caribbean,95.39,3.54,Caribbean,97.89,19.72,190
+GUY,98.94,92.84,6.1,Latin America & Caribbean,95.39,3.55,South America,97.92,19.77,192
+MEX,98.94,92.84,6.1,Latin America & Caribbean,95.39,3.55,Central America,97.92,19.77,192
+PHL,98.94,92.84,6.1,South-eastern Asia,98.19,0.75,South-eastern Asia,97.92,19.77,192
+MWI,99.0,92.84,6.17,Sub-Saharan Africa,96.68,2.32,Eastern Africa,98.04,20.01,153
+COM,99.07,92.84,6.24,Sub-Saharan Africa,96.68,2.39,Eastern Africa,98.18,20.3,165
+LCA,99.09,92.84,6.26,Latin America & Caribbean,95.39,3.71,Caribbean,98.21,20.36,168
+HND,99.12,92.84,6.28,Latin America & Caribbean,95.39,3.73,Central America,98.27,20.47,173
+ATG,99.13,92.84,6.29,Latin America & Caribbean,95.39,3.74,Caribbean,98.29,20.51,175
+KNA,99.16,92.84,6.32,Latin America & Caribbean,95.39,3.77,Caribbean,98.34,20.62,181
+VUT,99.16,92.84,6.33,Oceania,91.48,7.68,Melanesia,98.35,20.64,182
+BHS,99.18,92.84,6.34,Latin America & Caribbean,95.39,3.79,Caribbean,98.38,20.69,185
+MMR,99.19,92.84,6.35,South-eastern Asia,98.19,1.0,South-eastern Asia,98.4,20.74,188
+TKM,99.19,92.84,6.36,Central Asia,97.61,1.58,Central Asia,98.43,20.79,127
+SOM,99.26,92.84,6.42,Sub-Saharan Africa,96.68,2.58,Eastern Africa,98.54,21.02,137
+BEN,99.36,92.84,6.52,Sub-Saharan Africa,96.68,2.68,Western Africa,98.73,21.4,79
+LBR,99.35,92.84,6.52,Sub-Saharan Africa,96.68,2.67,Western Africa,98.73,21.39,157
+ZMB,99.37,92.84,6.53,Sub-Saharan Africa,96.68,2.69,Eastern Africa,98.75,21.44,160
+GAB,99.42,92.84,6.58,Sub-Saharan Africa,96.68,2.74,Middle Africa,98.85,21.64,174
+BLZ,99.43,92.84,6.6,Latin America & Caribbean,95.39,4.04,Central America,98.88,21.69,178
+TLS,99.46,92.84,6.63,South-eastern Asia,98.19,1.28,South-eastern Asia,98.94,21.82,189
+CHL,99.47,92.84,6.64,Latin America & Caribbean,95.39,4.09,South America,98.96,21.85,192
+GTM,99.47,92.84,6.64,Latin America & Caribbean,95.39,4.09,Central America,98.96,21.85,192
+AZE,99.68,92.84,6.84,Western Asia,90.18,9.5,Western Asia,99.37,22.67,158
+SYC,99.7,92.84,6.87,Sub-Saharan Africa,96.68,3.02,Eastern Africa,99.42,22.77,171
+JAM,99.73,92.84,6.9,Latin America & Caribbean,95.39,4.34,Caribbean,99.47,22.87,188
+SUR,99.74,92.84,6.9,Latin America & Caribbean,95.39,4.35,South America,99.48,22.89,191
+BRB,100.0,92.84,7.16,Latin America & Caribbean,95.39,4.61,Caribbean,100.0,23.94,145
+CPV,100.0,92.84,7.16,Sub-Saharan Africa,96.68,3.32,Western Africa,100.0,23.94,184
+URY,100.0,92.84,7.16,Latin America & Caribbean,95.39,4.61,South America,100.0,23.94,190
