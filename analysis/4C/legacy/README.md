@@ -1,0 +1,1 @@
+The scripts in this folder, and `supabase-schema.md`, target the old Supabase project, which has been offline since the 2026 move to Turso, so they no longer run: use the CSV snapshots in `data/` or Turso instead.
