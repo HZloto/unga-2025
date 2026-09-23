@@ -1,0 +1,120 @@
+{
+  "section": "Largest rank movements in the 2025 cycle",
+  "subtitle": "Year-on-year rank changes (2024 → 2025) reveal where voting behavior converged with, or moved sharply away from, the global UNGA majority.",
+  "metric": "Pillar 3 — Global Alignment (alignment with the prevailing UNGA majority position).",
+  "source": {
+    "file": "data/annual_scores (4).csv",
+    "rank_field": "Pillar 3 Rank",
+    "score_field": "Pillar 3 Score",
+    "rank_convention": "1 = highest global alignment; positive rank_delta = improved (rose); negative = fell.",
+    "universe": "191 countries with both 2024 and 2025 Pillar 3 records (AFG and VEN excluded — no recorded 2025 votes)."
+  },
+  "headline_cards": [
+    {
+      "iso3": "MDG",
+      "name": "Madagascar",
+      "region": "Africa",
+      "rank_2024": 90,
+      "rank_2025": 184,
+      "rank_delta": -94,
+      "score_2024": 90.67,
+      "score_2025": 83.12,
+      "blurb": "Recorded the steepest Pillar 3 fall among the highlighted countries, dropping 94 places into the bottom-ten group on global alignment."
+    },
+    {
+      "iso3": "URY",
+      "name": "Uruguay",
+      "region": "Americas",
+      "rank_2024": 74,
+      "rank_2025": 1,
+      "rank_delta": 73,
+      "score_2024": 92.09,
+      "score_2025": 100.00,
+      "blurb": "Entered the shared first-place group on Pillar 3 with a perfect 2025 global-alignment score (tied with Barbados and Cabo Verde at 100.0)."
+    },
+    {
+      "iso3": "PRY",
+      "name": "Paraguay",
+      "region": "Americas",
+      "rank_2024": 140,
+      "rank_2025": 188,
+      "rank_delta": -48,
+      "score_2024": 72.01,
+      "score_2025": 74.20,
+      "blurb": "Moved down sharply on Pillar 3 to sit just above the lowest-alignment cluster (rank 188 of 191)."
+    },
+    {
+      "iso3": "GTM",
+      "name": "Guatemala",
+      "region": "Americas",
+      "rank_2024": 54,
+      "rank_2025": 8,
+      "rank_delta": 46,
+      "score_2024": 93.72,
+      "score_2025": 99.47,
+      "blurb": "Posted one of the strongest one-year jumps among the 2025 Pillar 3 top ten."
+    }
+  ],
+  "feature_spotlight": {
+    "iso3": "URY",
+    "name": "Uruguay",
+    "region": "Americas",
+    "current_rank": 1,
+    "rank_delta": 73,
+    "rank_2024": 74,
+    "score_2025": 100.00,
+    "score_2024": 92.09,
+    "voting_signal": "Recent convergence with the UNGA majority",
+    "narrative": [
+      "Uruguay moved into the shared first-place group on Pillar 3 in 2025, combining a perfect global-alignment score (100.0) with one of the largest one-year rank gains in the dataset (+73 places).",
+      "Its movement shows that high alignment in 2025 was not only a matter of long-term stability — some countries converged quickly with prevailing voting patterns.",
+      "Uruguay shares the rank-1 slot with Barbados (BRB) and Cabo Verde (CPV); all three reach a perfect 100.0 Pillar 3 score in 2025."
+    ]
+  },
+  "also_worth_a_closer_read": [
+    {
+      "iso3": "MDG",
+      "name": "Madagascar",
+      "region": "Africa",
+      "rank_2024": 90,
+      "rank_2025": 184,
+      "rank_delta": -94,
+      "blurb": "Madagascar registered the most severe Pillar 3 decline among the highlighted cards, falling into the bottom-ten group on global alignment."
+    },
+    {
+      "iso3": "GTM",
+      "name": "Guatemala",
+      "region": "Americas",
+      "rank_2024": 54,
+      "rank_2025": 8,
+      "rank_delta": 46,
+      "blurb": "Guatemala climbed into the Pillar 3 top ten with a 99.47 global-alignment score and a strong one-year rank increase."
+    }
+  ],
+  "regional_pulse_2025": [
+    { "region": "Africa",      "avg_pillar3": 96.7, "delta_yoy": 4.9,  "countries": 53, "stdev": 3.9,  "label": "High and rising" },
+    { "region": "Americas",    "avg_pillar3": 92.4, "delta_yoy": 4.0,  "countries": 34, "stdev": 20.3, "label": "Most dispersed" },
+    { "region": "Asia",        "avg_pillar3": 95.7, "delta_yoy": 9.8,  "countries": 33, "stdev": 3.9,  "label": "Tight and rising" },
+    { "region": "Europe",      "avg_pillar3": 87.6, "delta_yoy": 23.6, "countries": 43, "stdev": 2.4,  "label": "Most cohesive" },
+    { "region": "Middle East", "avg_pillar3": 90.0, "delta_yoy": 9.3,  "countries": 14, "stdev": 22.3, "label": "Fragmented" }
+  ],
+  "regional_pulse_notes": {
+    "metric": "Mean of `Pillar 3 Score` over countries in each continent for 2025.",
+    "groupings": {
+      "Africa": "All UN M49 African subregions.",
+      "Americas": "Northern America, Central America, Caribbean, South America.",
+      "Asia": "Central, Eastern, South-eastern, Southern Asia, plus non–Middle East Western Asia (Armenia, Azerbaijan, Cyprus, Georgia).",
+      "Europe": "All UN M49 European subregions.",
+      "Middle East": "BHR, EGY, IRQ, ISR, JOR, KWT, LBN, OMN, QAT, SAU, SYR, TUR, UAE, YEM (14 countries)."
+    },
+    "excluded_from_cards": "Oceania (avg Pillar 3 91.5, 14 countries) is computed in the CSV but not surfaced on this card to keep the 5-region layout.",
+    "note_on_placeholder_values": "The placeholder values (74.1 / 68.5 / 63.4 / 79.3 / 58.9) do not match Pillar 3 — or any other pillar/total — averages for 2025 under any sensible regional grouping. They appear to be fabricated and have been replaced with computed Pillar 3 means."
+  },
+  "validation_notes": [
+    "Metric confirmed as Pillar 3 (Global Alignment): all four placeholder rank deltas (URY +73, MDG −94, PRY −48, GTM +46) match Pillar 3 ranks exactly. Uruguay's 'perfect 2025 global score' (100.0) and Guatemala's 99.47 both match Pillar 3 Score, not Total Index.",
+    "Universe is 191 countries with non-null Pillar 3 Rank in both 2024 and 2025. AFG and VEN are excluded (no 2025 votes recorded).",
+    "Uruguay shares rank 1 with Barbados (BRB) and Cabo Verde (CPV) — all three score 100.0 on Pillar 3 in 2025, so 'shared first-place group' is accurate.",
+    "If you want the four largest absolute Pillar 3 movements instead of the editorial mix, they are LBR +100 (115 → 15), STP −107 (29 → 136), WSM −100 (24 → 124), MDG −94 (90 → 184). The placeholder picks (URY, MDG, PRY, GTM) are editorially valid but are not the absolute extremes.",
+    "Full top-10 risers and top-10 fallers on Pillar 3 are in top_movers_2025.csv."
+  ]
+}

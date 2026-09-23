@@ -1,0 +1,21 @@
+iso3,country_name_full,continent,direction,Pillar 3 Rank_2024,Pillar 3 Rank_2025,rank_delta,Pillar 3 Score_2024,Pillar 3 Score_2025,score_delta
+LBR,Liberia,Africa,riser,115,15,100,84.66,99.35,14.7
+URY,Uruguay,Americas,riser,74,1,73,92.09,100.0,7.91
+MWI,Malawi,Africa,riser,94,26,68,90.38,99.0,8.63
+BOL,Bolivia,Americas,riser,96,35,61,90.09,98.69,8.6
+MEX,Mexico,Americas,riser,84,27,57,91.16,98.94,7.78
+GTM,Guatemala,Americas,riser,54,8,46,93.72,99.47,5.76
+PHL,Philippines,Asia,riser,69,27,42,92.17,98.94,6.77
+IDN,Indonesia,Asia,riser,101,62,39,88.85,97.59,8.74
+CIV,Côte d'Ivoire,Africa,riser,97,59,38,89.97,97.83,7.86
+GIN,Guinea,Africa,riser,89,51,38,90.74,97.92,7.18
+STP,São Tomé and Príncipe,Africa,faller,29,136,-107,95.8,90.67,-5.13
+WSM,Samoa,Oceania,faller,24,124,-100,96.67,92.58,-4.08
+MDG,Madagascar,Africa,faller,90,184,-94,90.67,83.12,-7.54
+DMA,Dominica,Americas,faller,16,108,-92,97.28,95.61,-1.68
+SLV,El Salvador,Americas,faller,27,93,-66,96.2,96.84,0.64
+COD,Democratic Republic of the Congo,Africa,faller,40,99,-59,95.01,96.62,1.62
+CAF,Central African Republic,Africa,faller,66,120,-54,92.36,93.31,0.95
+NAM,Namibia,Africa,faller,58,112,-54,93.56,95.21,1.65
+GMB,Gambia,Africa,faller,8,61,-53,98.3,97.61,-0.68
+VCT,Saint Vincent and the Grenadines,Americas,faller,44,96,-52,94.52,96.75,2.23

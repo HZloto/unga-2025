@@ -1,0 +1,276 @@
+{
+  "charts": [
+    {
+      "pillar": "Pillar 1 — Internal Alignment",
+      "window": "2006–2025",
+      "trendline": {
+        "slope_per_year": -0.1233,
+        "intercept_at_year0": 320.3744,
+        "value_at_start": 72.99,
+        "value_at_end": 70.65,
+        "total_change": -2.34
+      },
+      "series": [
+        {
+          "year": 2006,
+          "average": 68.6116,
+          "smoothed_3y": 70.252,
+          "trendline": 72.98872714285707
+        },
+        {
+          "year": 2007,
+          "average": 71.8924,
+          "smoothed_3y": 73.182,
+          "trendline": 72.86540428571422
+        },
+        {
+          "year": 2008,
+          "average": 79.042,
+          "smoothed_3y": 76.6921,
+          "trendline": 72.74208142857137
+        },
+        {
+          "year": 2009,
+          "average": 79.1419,
+          "smoothed_3y": 77.1459,
+          "trendline": 72.61875857142851
+        },
+        {
+          "year": 2010,
+          "average": 73.2538,
+          "smoothed_3y": 72.9707,
+          "trendline": 72.49543571428566
+        },
+        {
+          "year": 2011,
+          "average": 66.5163,
+          "smoothed_3y": 67.1918,
+          "trendline": 72.37211285714281
+        },
+        {
+          "year": 2012,
+          "average": 61.8052,
+          "smoothed_3y": 69.3868,
+          "trendline": 72.24878999999996
+        },
+        {
+          "year": 2013,
+          "average": 79.8388,
+          "smoothed_3y": 71.9679,
+          "trendline": 72.1254671428571
+        },
+        {
+          "year": 2014,
+          "average": 74.2597,
+          "smoothed_3y": 75.1162,
+          "trendline": 72.00214428571425
+        },
+        {
+          "year": 2015,
+          "average": 71.2501,
+          "smoothed_3y": 73.6423,
+          "trendline": 71.8788214285714
+        },
+        {
+          "year": 2016,
+          "average": 75.417,
+          "smoothed_3y": 74.5279,
+          "trendline": 71.75549857142855
+        },
+        {
+          "year": 2017,
+          "average": 76.9167,
+          "smoothed_3y": 75.1054,
+          "trendline": 71.6321757142857
+        },
+        {
+          "year": 2018,
+          "average": 72.9825,
+          "smoothed_3y": 73.478,
+          "trendline": 71.50885285714284
+        },
+        {
+          "year": 2019,
+          "average": 70.5348,
+          "smoothed_3y": 69.7796,
+          "trendline": 71.38552999999999
+        },
+        {
+          "year": 2020,
+          "average": 65.8214,
+          "smoothed_3y": 62.867,
+          "trendline": 71.26220714285714
+        },
+        {
+          "year": 2021,
+          "average": 52.2448,
+          "smoothed_3y": 61.7004,
+          "trendline": 71.13888428571428
+        },
+        {
+          "year": 2022,
+          "average": 67.0349,
+          "smoothed_3y": 65.2629,
+          "trendline": 71.01556142857143
+        },
+        {
+          "year": 2023,
+          "average": 76.509,
+          "smoothed_3y": 73.946,
+          "trendline": 70.89223857142858
+        },
+        {
+          "year": 2024,
+          "average": 78.2942,
+          "smoothed_3y": 76.5931,
+          "trendline": 70.76891571428573
+        },
+        {
+          "year": 2025,
+          "average": 74.9761,
+          "smoothed_3y": 76.6352,
+          "trendline": 70.64559285714287
+        }
+      ]
+    },
+    {
+      "pillar": "Pillar 3 — Global Alignment",
+      "window": "2006–2025",
+      "trendline": {
+        "slope_per_year": -0.1888,
+        "intercept_at_year0": 466.5038,
+        "value_at_start": 87.79,
+        "value_at_end": 84.2,
+        "total_change": -3.59
+      },
+      "series": [
+        {
+          "year": 2006,
+          "average": 89.4446,
+          "smoothed_3y": 89.457,
+          "trendline": 87.79191571428578
+        },
+        {
+          "year": 2007,
+          "average": 89.4693,
+          "smoothed_3y": 89.088,
+          "trendline": 87.60312616541364
+        },
+        {
+          "year": 2008,
+          "average": 88.3501,
+          "smoothed_3y": 87.8806,
+          "trendline": 87.41433661654145
+        },
+        {
+          "year": 2009,
+          "average": 85.8225,
+          "smoothed_3y": 86.9963,
+          "trendline": 87.22554706766925
+        },
+        {
+          "year": 2010,
+          "average": 86.8164,
+          "smoothed_3y": 86.3408,
+          "trendline": 87.03675751879706
+        },
+        {
+          "year": 2011,
+          "average": 86.3836,
+          "smoothed_3y": 86.4783,
+          "trendline": 86.84796796992492
+        },
+        {
+          "year": 2012,
+          "average": 86.2348,
+          "smoothed_3y": 85.931,
+          "trendline": 86.65917842105273
+        },
+        {
+          "year": 2013,
+          "average": 85.1747,
+          "smoothed_3y": 85.621,
+          "trendline": 86.47038887218054
+        },
+        {
+          "year": 2014,
+          "average": 85.4534,
+          "smoothed_3y": 85.0863,
+          "trendline": 86.28159932330834
+        },
+        {
+          "year": 2015,
+          "average": 84.6309,
+          "smoothed_3y": 85.0131,
+          "trendline": 86.0928097744362
+        },
+        {
+          "year": 2016,
+          "average": 84.9549,
+          "smoothed_3y": 85.4066,
+          "trendline": 85.90402022556401
+        },
+        {
+          "year": 2017,
+          "average": 86.6341,
+          "smoothed_3y": 86.2353,
+          "trendline": 85.71523067669182
+        },
+        {
+          "year": 2018,
+          "average": 87.117,
+          "smoothed_3y": 86.5569,
+          "trendline": 85.52644112781962
+        },
+        {
+          "year": 2019,
+          "average": 85.9196,
+          "smoothed_3y": 86.6815,
+          "trendline": 85.33765157894743
+        },
+        {
+          "year": 2020,
+          "average": 87.008,
+          "smoothed_3y": 85.7294,
+          "trendline": 85.14886203007529
+        },
+        {
+          "year": 2021,
+          "average": 84.2605,
+          "smoothed_3y": 83.533,
+          "trendline": 84.9600724812031
+        },
+        {
+          "year": 2022,
+          "average": 79.3304,
+          "smoothed_3y": 81.8539,
+          "trendline": 84.7712829323309
+        },
+        {
+          "year": 2023,
+          "average": 81.9707,
+          "smoothed_3y": 81.1529,
+          "trendline": 84.58249338345871
+        },
+        {
+          "year": 2024,
+          "average": 82.1577,
+          "smoothed_3y": 85.6545,
+          "trendline": 84.39370383458657
+        },
+        {
+          "year": 2025,
+          "average": 92.8351,
+          "smoothed_3y": 87.4964,
+          "trendline": 84.20491428571438
+        }
+      ]
+    }
+  ],
+  "source_file": "data/annual_scores (4).csv",
+  "method": {
+    "average": "unweighted mean across all UN member states with a non-null pillar score in that year",
+    "smoothed": "centered 3-year rolling mean (min_periods=1)",
+    "trendline": "OLS linear fit on (year, world_avg)"
+  }
+}
